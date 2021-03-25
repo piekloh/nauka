@@ -1,2 +1,2 @@
 # nauka
-Do nauki
+Plik README
